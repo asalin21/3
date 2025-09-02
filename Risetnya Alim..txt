@@ -1,0 +1,9 @@
+1. yang ahrus di kuasai.
+ tetapi sebelum masuk coding kita wajib tau hal ini.
+ Cara kerja Web : isinya ada 3 hal utama (fontend : Tampilan di webnya,backend : fungsinya/otaknya,dan database data datanya atau hasil)
+ kemudian front : HTML,CSS, FRAMEWORK DLL
+ backend misalnya : JavaScript, python, dan JAVA
+ Database : SQL (My SQL) DLL
+ lalu kita juga harus belajar GIT dan GITHUB yaitu bisa simpen versi kode dan dapat mennyimpan kode
+  
+ dan kita belajar ini banyak manfaatnya dari dapat membantu orang maupun diri kita sendiri, seperti kita menjadi guru untuk mengajar dan menjadi oragh yang memiliki perusahhan orang yang bisa membuat aplikasi. 
